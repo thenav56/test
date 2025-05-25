@@ -4,7 +4,7 @@ components:
       properties:
         event:
           items:
-            maxLength: 100
+            maxLength: 200
             type: string
           type: array
         event_type:
